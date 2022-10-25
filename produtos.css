@@ -5,11 +5,11 @@ header {
 
 .caixa {
     position: relative;
-    widht: 940px;
+    width: 940px;
     margin: 0 auto;
-}
-
-nav {
+}    
+    
+nav {    
     position: absolute;
     top: 110px;
     right: 0;
@@ -24,6 +24,3 @@ nav a {
     text-transform: uppercase;
     color: #000000;
     font-weight: bold;
-    font-size: 22px;
-    text-decoration: none;
-}
